@@ -20,7 +20,7 @@ Arduinoで作るリングモジュレータ
 3. 原音(キャリア)とリングモジュレータを通した音のMIX機能を搭載
 
 ## 機構
-MozziRingModulator_schematicsを参照
+MozziRingModulator.pdfを参照
 1. A0ピン：AudioInput(キャリアの信号)
 2. A1ピン：原音とリングモジュレータを通した音のMIX
 3. A2ピン：モジュレータの周波数
